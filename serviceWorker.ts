@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 // src/serviceWorker.ts
 // This TypeScript service worker script handles background tasks and notifications.
 
