@@ -1,0 +1,16 @@
+{
+    "name": "My Progressive Web Application",
+    "short_name": "Progressive",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#FFFFFF",
+    "display": "fullscreen",
+    "orientation": "portrait"
+}
