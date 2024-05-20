@@ -2,12 +2,12 @@
 // src/serviceWorker.ts
 // This TypeScript service worker script handles background tasks and notifications.
 
-self.addEventListener("install", (event: ExtendableEvent) => {
+self.addEventListener("install", () => {
     console.log("Service Worker installing.");
     // Perform install steps
 });
 
-self.addEventListener("activate", (event: ExtendableEvent) => {
+self.addEventListener("activate", () => {
     console.log("Service Worker activating.");
     // Clean up old caches
 });
